@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class Demo{
+public class ArrayDemo{
     public static void main(String[] args) {
         Array arr = new Array(4);
         arr.insert(1);
