@@ -1,4 +1,4 @@
-package search;
+package searching;
 
 public class SearchDemo {
     public static void main(String[] args) {
